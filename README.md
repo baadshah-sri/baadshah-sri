@@ -1,8 +1,8 @@
 # Ainesh Srivastava
 
-🎓 Electrical Engineering & Information Technology @ Hochschule Ravensburg-Weingarten  
-🔬 Specializing in Sensor Fusion | Machine Learning | 3D Perception  
-🚀 On a mission to build intelligent systems that *see, sense,* and *understand* the world
+-> Electrical Engineering & Information Technology @ Hochschule Ravensburg-Weingarten  
+-> Specializing in Sensor Fusion | Machine Learning | 3D Perception  
+-> On a mission to build intelligent systems that *see, sense,* and *understand* the world
 
 ---
 
