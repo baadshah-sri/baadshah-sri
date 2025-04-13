@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 About Me
+##  About Me
 
 I'm an aspiring engineer and researcher passionate about **real-time sensor fusion**, **inertial systems**, and **deep learning for 3D perception**.
 
@@ -34,25 +34,25 @@ I bring together embedded control, real-time perception, and machine learning to
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Micropython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧠 ML & Deep Learning
+###  ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-8A2BE2?style=for-the-badge&logo=yolo&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📦 Embedded Systems
+###  Embedded Systems
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Pico-W-cc0000?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-34495E?style=for-the-badge)
 ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-00A1F1?style=for-the-badge&logo=wi-fi&logoColor=white)
 
-### 📊 Data & Analysis
+###  Data & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![AllanTools](https://img.shields.io/badge/AllanTools-333333?style=for-the-badge)
 
-### 🧠 Algorithms & Estimation
+###  Algorithms & Estimation
 ![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-2980B9?style=for-the-badge)
 ![EKF](https://img.shields.io/badge/EKF-16A085?style=for-the-badge)
 ![UKF](https://img.shields.io/badge/UKF-8E44AD?style=for-the-badge)
@@ -89,15 +89,6 @@ I bring together embedded control, real-time perception, and machine learning to
 - 🧠 Transformers & Vision Models
 - 🌐 Real-Time Sensor Data Pipelines
 - 🧪 Research Reproduction from Papers
----
-### 🧪 Currently Learning
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![SLAM](https://img.shields.io/badge/SLAM-1ABC9C?style=for-the-badge)
-
-
----
-## 🎯 Tools I'm Learning in 2025
-- FastAPI, HuggingFace, TensorBoard, Real-time SLAM
 ---
 
 
